@@ -1,5 +1,4 @@
-**di** scovery service
-==
+# DI-scovery service
 
 ## Overview
 
